@@ -1,5 +1,5 @@
 # Site settings
-title: Freelancer
+title: Rendy Ananda
 email: rendyanandapoi@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Hello Welcome to my cv"
@@ -52,7 +52,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Samarinda
+  - line: Samarinda
   - line: Kalimantan Timur, Indonesia
 
 # Credits content
